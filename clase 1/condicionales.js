@@ -1,7 +1,0 @@
-let nombres = ["Juan", "Pedro", "Maria", "Ana", "Jorge", "Luis", "Carlos", "Sandra", "Rosa", "Juana", "Javier", "Pablo", "Daniel", "Sergio", "Juan", "Pedro", "Maria", "Ana", "Jorge", "Luis", "Carlos", "Sandra", "Rosa", "Juana", "Javier", "Pablo", "Daniel", "Sergio", "Juan", "Pedro", "Maria", "Ana", "Jorge", "Luis", "Carlos", "Sandra", "Rosa", "Juana", "Javier", "Pablo", "Daniel", "Sergio", "Juan", "Pedro", "Maria", "Ana", "Jorge", "Luis", "Carlos", "Sandra", "Rosa", "Juana", "Javier", "Pablo", "Daniel", "Sergio", "Juan", "Pedro", "Maria", "Ana", "Jorge", "Luis", "Carlos", "Sandra", "Rosa", "Juana", "Javier", "Pablo", "Daniel", "Sergio", "Juan", "Pedro", "Maria", "Ana", "Jorge", "Luis", "Carlos", "Sandra", "Rosa", "Juana", "Javier", "Pablo", "Daniel", "Sergio", "Juan", "Pedro", "Maria", "Ana", "Jorge", "Luis", "Carlos", "Sandra", "Rosa", "Juana", "Javier", "Pablo", "Daniel", "Sergio", "Juan", "Pedro", "Maria", "Ana", "Jorge", "Luis", "Carlos", "Sandra", "Rosa", "Juana", "Javier", "Pablo", "Daniel", "Sergio", "Juan", "Pedro", "Maria", "Ana", "Jorge", "Luis", "Carlos", "Sandra", "Rosa", "Juana", "Javier", "Pablo", "Daniel", "Sergio", "Juan"];
-//Array 
-let nombre = "Jose";//String
-
-nombres.push(nombre);
-
-console.log(nombres);
